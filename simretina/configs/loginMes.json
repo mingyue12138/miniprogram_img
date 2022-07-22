@@ -1,0 +1,21 @@
+{
+"deviceId":"44030100001400000001",
+"userName":"znh",
+"password":"123456",
+"vendor":"xw",
+"deviceSn":"12138",
+"deviceType":"1",
+"deviceName":"Sim Camera 1",
+"osName":"Loongson",
+"osVersion":"10.9527",
+"softwareVersion":"1.0.0",
+"deviceCpu":"9527",
+"deviceGpu":"9527",
+"deviceRam":"2GB",
+"deviceDisk":"500GB",
+"ipAddr":"172.16.0.59",
+"port":"9527",
+"longitude":"118.802421",
+"latitude":"32.064652",
+"location":"1101"
+}

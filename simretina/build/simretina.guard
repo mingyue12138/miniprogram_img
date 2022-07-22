@@ -1,0 +1,4 @@
+rundir = /usr/local/simretina
+runcmd = sh start.sh
+match = ./bin/simretina
+profiles =

@@ -1,0 +1,36 @@
+{
+	"alg": [
+		{
+			"algDesc": "",
+			"algExecFile": "",
+			"algExpireTime": "",
+			"algFileName": "",
+			"algFileURL": "",
+			"algId": 0,
+			"algModels": [
+				{
+					"addTime": "",
+					"compressType": "",
+					"modelDesc": "",
+					"modelFileName": "",
+					"modelId": 0,
+					"modelURL": "",
+					"modelVersion": "",
+					"updateType": ""
+				}
+			],
+			"algOutputFeature": "",
+			"algOutputResult": "",
+			"algRate": 0,
+			"algState": "",
+			"algVersion": ""
+		}
+	],
+	"configId": 0,
+	"deviceId": "44030100001400000001",
+	"outputFeature": "0",
+	"outputResult": "0",
+	"outputVideo": "0",
+	"videoType": "0",
+	"videoURL": "0"
+}

@@ -1,0 +1,29 @@
+{
+	"alg": [
+		{
+			"algDesc": "",
+			"algExecFile": "",
+			"algFileName": "",
+			"algFileURL": "",
+			"algId": 0,
+			"algModels": [
+				{
+					"addTime": "",
+					"compressType": "",
+					"modelDesc": "",
+					"modelFileName": "",
+					"modelId": 0,
+					"modelURL": "",
+					"modelVersion": "",
+					"updateType": ""
+				}
+			],
+			"algRate": 0,
+			"updateTime": ""
+		}
+	],
+	"configId": 0,
+	"deviceId": "44030100001400000001",
+	"outputFeature": "0",
+	"outputResult": "0"
+}
